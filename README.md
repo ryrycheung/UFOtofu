@@ -17,4 +17,8 @@ Launching **FindMe** will bring users to the 'Emergency Services' tab by default
 EmergencyInfoBC is active during partial and full-scale provincial emergencies such as events of tsunami, wildfire and earthquakes. They share official response and information about the situation as well as real-time evacuation alerts and orders. Users could easily access these information on **FindMe**. 
 
 ## Open Data Sources
-[1] Open Government License - British Columbia, Evacuation Orders and Alerts https://catalogue.data.gov.bc.ca/dataset/7efd46d0-b5d3-4dff-af80-d376c42aec33
+[1] Open Government License - British Columbia, Evacuation Orders and Alerts 
+https://catalogue.data.gov.bc.ca/dataset/7efd46d0-b5d3-4dff-af80-d376c42aec33
+
+[2] Open Government License - British Columbia, BC First Responder Locations
+https://hub.arcgis.com/datasets/exchange::bc-first-responders/about
