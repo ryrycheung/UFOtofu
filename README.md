@@ -22,3 +22,9 @@ https://catalogue.data.gov.bc.ca/dataset/7efd46d0-b5d3-4dff-af80-d376c42aec33
 
 [2] Open Government License - British Columbia, BC First Responder Locations
 https://hub.arcgis.com/datasets/exchange::bc-first-responders/about
+
+## References
+[1] 
+
+[2] University of Oxford, Natural Disaster Data Explorer
+https://ourworldindata.org/natural-disasters#:~:text=States%20(not%20comparable)-,Natural%20disasters%20kill%20on%20average%2060%2C000%20people%20per%20year%20and,disaster%20event%20claims%20many%20lives
