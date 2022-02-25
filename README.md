@@ -15,7 +15,7 @@ Launching **FindMe** will bring users to the 'Emergency Services' tab by default
 The FindMe Emergency Report is a survey designed with Survey123. The survey collects information from the users on the event they experience at the time of filling the report, personal information, their physical conditions, supply sufficiency and locations. All of the columns are null-able, which means that the survey can be submitted with only the location in extreme urgent situtions.
 
 ### Emergency Orders and Alerts
-EmergencyInfoBC is active during partial and full-scale provincial emergencies such as events of tsunami, wildfire and earthquakes. They share official response and information about the situation as well as real-time evacuation alerts and orders. Users could easily access these information on **FindMe**. 
+EmergencyInfoBC is active during partial and full-scale provincial emergencies such as events of tsunami, wildfire and earthquakes. They share official response and information about the situation as well as real-time evacuation alerts and orders. Users could easily access these information on **FindMe**. Details of the evacuation orders can be viewed in the feature table located at the bottom of the tab interface. The map will automatically zoom into the location of the evacuation order that is currently being displayed in the table. Users can switch between evacuation orders by clicking on the left and right arrows located at the top of the feature table.
 
 ## Open Data Sources
 [1] Open Government License - British Columbia, Evacuation Orders and Alerts 
