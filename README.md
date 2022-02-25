@@ -9,7 +9,7 @@ The three digits telephone number '911' has been designated as a nationwide numb
 Users could access to 3 main functions on **FindMe** - Look up emergency services locations, report physical conditions and locations and real-time emergency orders and alert. Nagivation through the tabs for these functions. The general app interface also links the users to the "Public emergency preparation and recovery" by the BC Government, and provides a link to all the Emergency Management B.C. office contacts.
 
 ### Emergency Services Locations
-Launching **FindMe** will bring users to the 'Emergency Services' tab by default. From here, users have the ability to locate themselves on the map and pinpoint emergency services locations such as fire and police stations. 
+Launching **FindMe** will bring users to the 'Emergency Services' tab by default. From here, users have the ability to locate themselves on the map and pinpoint emergency services locations such as fire and police stations. Users can use the search bar to look for a specific facility. By selecting the name of the facility, the map view will automatically zoom to the selected feature.
 
 ### FindMe (Emergency Report)
 
