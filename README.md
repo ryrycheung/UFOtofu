@@ -26,13 +26,13 @@ The reported emergencies are symbolized in various colors to quickly identify th
 "Slightly injured" in bright yellow;
 "Moderately injured" in orange;
 "Trapped and in danger" in light red;
-"Seriously injured" in dark red.
+and "Seriously injured" in dark red.
 
 ### Map Widgets
 A few widgets are added to the Web App to help with the reviewing of the data.
 A Legend to find out which level of emergency the feature is representing;
-A Report Feature widget to add notes to the feature or to delete/edit feature when the rescue is completed.
-An Info Summary widget to quickly review the data reported in a list.
+A Report Feature widget to add notes to the feature or to delete/edit feature when the rescue is completed；
+and an Info Summary widget to quickly review the data reported in a list.
 
 ## Open Data Sources
 [1] Open Government License - British Columbia, Evacuation Orders and Alerts 
