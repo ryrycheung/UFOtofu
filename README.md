@@ -17,8 +17,8 @@ The **FindMe** Emergency Report is a survey designed with Survey123. The form co
 ### Emergency Orders and Alerts
 EmergencyInfoBC is active during partial and full-scale provincial emergencies such as events of tsunami, wildfire and earthquakes. They share official response and information about the situation as well as real-time evacuation alerts and orders. Users could easily access these information on **FindMe**. Details of the evacuation orders can be viewed in the feature table located at the bottom of the tab interface. The map will pan to the location of the chosen evacuation order. Users can cycle through evacuation orders around BC by clicking on the left and right arrows located at the top of the feature table. They could also use the search bar to look up specific evacuation alerts/orders.
 
-## Find Me Back End Web App Display and Functionalities
-The athorities will access the back end reported data through the "FindMe - Back End" web app, that is designed with additional widgets to help with manipulation of the data.
+## FindMe Back End Web App Display and Functionalities
+The athorities will access the back end reported data through the **FindMe - Back End** Web App, that is designed with additional widgets to help with manipulation of the data.
 
 ### Map Display
 The reported emergencies are symbolized in various colors to quickly identify the level of emergency:
